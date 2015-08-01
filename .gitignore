@@ -27,9 +27,11 @@ nosetests.xml
 .pydevproject
 OldWorks
 MANIFEST
-logs
+
+# Private local settings files
 zprivate
+zetc
 scratch*
 nohup*
-
 *.log
+
